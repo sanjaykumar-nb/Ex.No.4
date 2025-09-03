@@ -39,5 +39,6 @@ Result: The various types of Prompts are executed successfully with generated th
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
+# Result: 
+Thus the Prompts were exected succcessfully.
 
